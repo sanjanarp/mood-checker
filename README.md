@@ -1,6 +1,7 @@
 # Mood Checker
 
 A new Flutter application.
+<br>
 <a href="https://www.codefactor.io/repository/github/sanjanarp/mood-checker"><img src="https://www.codefactor.io/repository/github/sanjanarp/mood-checker/badge" alt="CodeFactor" /></a>
 
 
