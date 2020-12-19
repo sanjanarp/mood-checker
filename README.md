@@ -1,21 +1,13 @@
 # Mood Checker
 
 A new Flutter application.
-
 <br>
 <br>
 <a href="https://www.codefactor.io/repository/github/sanjanarp/mood-checker"><img src="https://www.codefactor.io/repository/github/sanjanarp/mood-checker/badge" alt="CodeFactor" /></a>
-
-
-
+<br>
 https://user-images.githubusercontent.com/72183433/102685327-df169180-4205-11eb-9130-3082bfdc35a3.mp4
-
-
-
-
-
-
-
+<br>
+<br>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
