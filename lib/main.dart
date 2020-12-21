@@ -51,7 +51,7 @@ class _MyHomePageState extends State<MyHomePage> {
       }
       if(_rating <= 2.0)
       {
-       message = "Awww! Drink some water, you'll be fine <3";
+       message = "Reminder: Drink some water";
       }
     });
     return message;
